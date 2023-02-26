@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: #1870d5;
+}
+
+.start-btn{
+    background-color: white;
+    color: #1870d5;
+    font-size: 18px;
+    padding: 10px 30px;
+    border-radius: 5px;
+    font-weight: 500;
+    margin: auto auto;
+    outline: none;
+    box-shadow: 10px 10px 41px 0px rgba(0,0,0,0.75);
+}
